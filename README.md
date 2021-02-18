@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirusha-H&show_icons=true&theme=tokyonight)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-H&repo=github-readme-stats)](https://github.com/Hirusha-H/github-readme-stats)
