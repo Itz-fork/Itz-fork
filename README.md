@@ -15,4 +15,4 @@
                                                                                                                                        
 # Stats
 
-![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirusha-H&show_icons=true&theme=tokyonight)
+![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
