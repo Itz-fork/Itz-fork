@@ -8,6 +8,7 @@
 - 📫 How to reach me [See Here](https://github.com/Itz-fork#contact-me)
 - ⚡ Fun fact: I'm a small kid
 
+                      ![Profile views](https://github.com/Itz-fork)
 
 # Contact Me
 
