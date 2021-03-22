@@ -1,7 +1,5 @@
 ## <h1 align="center">Hi! 👋 I'm Itz-Fork</h1>
 
-<h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
-
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Everything I want! 😅
 - 👯 I’m looking to collaborate on 😒😑
@@ -9,6 +7,10 @@
 - 💬 Ask me about Anything 😒🤖😑
 - 📫 How to reach me [See Here](https://github.com/Itz-fork#contact-me)
 - ⚡ Fun fact: I'm a small kid
+- 
+
+## Profile,
+<h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
 
 # Contact Me
