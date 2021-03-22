@@ -1,11 +1,11 @@
-### Hola! 👋
+### Hi! 👋
 
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Everything I want! 😅
 - 👯 I’m looking to collaborate on 😒😑
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about 😒🤖😑
-- 📫 How to reach me Idk 😂
+- 💬 Ask me about Anything 😒🤖😑
+- 📫 How to reach me [See Here](https://github.com/Itz-fork#contact-me)
 - ⚡ Fun fact: I'm a small kid
 
 
