@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi! 👋 I'm Itz-Fork</h1>
 
-<h4 align="left">![](https://komarev.com/ghpvc/?username=Itz-fork)</h4>
+<h4 align="left">https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=aqua</h4>
 
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Everything I want! 😅
