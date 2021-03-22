@@ -15,7 +15,7 @@
 
 # Contact Me
 
-<a href="https://t.me/Bruh-0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
                                                                                                                                        
 # Stats
 
