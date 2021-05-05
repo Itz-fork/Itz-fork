@@ -1,5 +1,8 @@
 ## <h1 align="center">Hi! 👋 I'm Itz-Fork</h1>
 
+<center><a href="#"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></center>
+
+
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Everything I want! 😅
 - 👯 I’m looking to collaborate on 😒😑
