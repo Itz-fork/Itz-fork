@@ -5,7 +5,7 @@
     </p>
 
 
-- 🔭 I’m currently working on **Telegram Bots andS School Works!**
+- 🔭 I’m currently working on **Telegram Bots and School Works!**
 - 🌱 I’m currently learning  **Everything I want! 😅**
 - 👯 I’m looking to collaborate on  **A Big Project 😒😑**
 - 🤔 I’m looking for help with  **Python**
