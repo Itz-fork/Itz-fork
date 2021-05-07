@@ -13,8 +13,6 @@
 - 📫 How to reach me  **[See Here](https://github.com/Itz-fork#contact-me)**
 - ⚡ Fun fact: **I'm a small kid**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yJg-Y5byMMw?rel=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Profile Stats,
 
 ![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
@@ -24,3 +22,7 @@
 # Contact Me
 
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yJg-Y5byMMw?rel=0&autoplay=1" frameborder="0" allowfullscreen="true"> </iframe>
+  </figure>
