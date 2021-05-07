@@ -19,6 +19,11 @@
 
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
+# Follow Me
+
+<a href="https://github.com/Itz-fork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://gitlab.com/Itz-fork"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> | <a href="https://twitter.com/0xbruh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+
 # Contact Me
 
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
