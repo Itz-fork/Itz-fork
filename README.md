@@ -22,7 +22,3 @@
 # Contact Me
 
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yJg-Y5byMMw?rel=0&autoplay=1" frameborder="0" allowfullscreen="true"> </iframe>
-  </figure>
