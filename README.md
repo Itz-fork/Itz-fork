@@ -12,8 +12,7 @@
 - 💬 Ask me about  **Anything  😒🤖😑**
 - 📫 How to reach me  **[See Here](https://github.com/Itz-fork#contact-me)**
 - ⚡ Fun fact: **I'm a small kid**
-
-[!Mortals](mortals.mp3)
+- 
 
 # Profile Stats,
 
