@@ -13,19 +13,13 @@
 - 📫 How to reach me  **[See Here](https://github.com/Itz-fork#contact-me)**
 - ⚡ Fun fact: **I'm a small kid**
 
+[!Mortals](mortals.mp3)
 
 # Profile Stats,
 
 ![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
 
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
-
-# My Favs,
-
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/Itz-fork/Itz-fork/main/mortals.m4a")
-audio.play()
-</script>
 
 # Contact Me
 
