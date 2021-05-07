@@ -23,7 +23,7 @@
 # My Favs,
 
 <script>
-var audio = new Audio("https://raw.githubusercontent.com/Itz-fork/Itz-fork/main/mortals.mp3")
+var audio = new Audio("https://raw.githubusercontent.com/Itz-fork/Itz-fork/main/mortals.m4a")
 audio.play()
 </script>
 
