@@ -33,7 +33,8 @@
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <details>
-  <summary>**IMO**</summary>
+  <summary><b>IMO</b></summary>
+  ```plantuml
   @startuml
 !define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
 !includeurl ICONURL/common.puml
@@ -59,4 +60,5 @@ telegram ..> whatsapp
 whatsapp ..> facebook
 facebook ..> instagram
 @enduml
+  ```
   </details>
