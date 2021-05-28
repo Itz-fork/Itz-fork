@@ -34,30 +34,5 @@
 
 <details>
   <summary><b>IMO</b></summary>
+  ![in-my-opinion-somp://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
   </details>
-
-```plantuml
-!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
-!includeurl ICONURL/common.puml
-!includeurl ICONURL/font-awesome-5/telegram.puml
-!includeurl ICONURL/font-awesome-5/whatsapp.puml
-!includeurl ICONURL/font-awesome-5/think_peaks.puml
-!includeurl ICONURL/font-awesome-5/facebook.puml
-!includeurl ICONURL/font-awesome-5/instagram.puml
-
-skinparam defaultTextAlignment center
-
-
-FA5_THINK_PEAKS(think,My Opinion,node) #White{
-FA5_TELEGRAM(telegram,Telegram,node) #White
-FA5_WHATSAPP(whatsapp,Whatsapp,node) #White
-FA5_FACEBOOK(facebook,Facebook,node) #White
-FA5_INSTAGRAM(instagram,Instagram,node) #White
-
-}
-
-
-telegram ..> whatsapp
-whatsapp ..> facebook
-facebook ..> instagram
-```
