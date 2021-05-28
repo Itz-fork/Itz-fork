@@ -19,10 +19,9 @@
 
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
-# Follow Me
+# Me On Social
 
-
-| Follow Meh |    On       |
+| **Platform** |    Take a look       |
 |------------|---------------------|
 |   Github   | <a href="https://github.com/Itz-fork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 |   Gitlab   | <a href="https://gitlab.com/Itz-fork"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
