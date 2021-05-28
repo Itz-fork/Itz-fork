@@ -34,7 +34,5 @@
 
 <details>
   <summary><b>IMO</b></summary>
-  ![in-my-opinion](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Itz-fork/Itz-fork/master/imo_some_are_gey.iuml)
+  <p><img src="http://www.plantuml.com/plantuml/proxy?cache=no&amp;src=https://raw.githubusercontent.com/Itz-fork/Itz-fork/master/imo_some_are_gey.iuml" alt="in-my-opinion"></p>
   </details>
-
-![in-my-opinion](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Itz-fork/Itz-fork/master/imo_some_are_gey.iuml)
