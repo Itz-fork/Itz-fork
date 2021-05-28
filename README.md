@@ -34,8 +34,9 @@
 
 <details>
   <summary><b>IMO</b></summary>
-  ```plantuml
-  @startuml
+  </details>
+
+```plantuml
 !define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
 !includeurl ICONURL/common.puml
 !includeurl ICONURL/font-awesome-5/telegram.puml
@@ -59,6 +60,4 @@ FA5_INSTAGRAM(instagram,Instagram,node) #White
 telegram ..> whatsapp
 whatsapp ..> facebook
 facebook ..> instagram
-@enduml
-  ```
-  </details>
+```
