@@ -34,5 +34,5 @@
 
 <details>
   <summary><b>IMO</b></summary>
-  ![in-my-opinion-somp://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+  ![in-my-opinion](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Itz-fork/Itz-fork/master/imo_some_are_gey.iuml)
   </details>
