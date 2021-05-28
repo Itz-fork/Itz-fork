@@ -21,10 +21,13 @@
 
 # Follow Me
 
-<a href="https://github.com/Itz-fork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://gitlab.com/Itz-fork"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="https://twitter.com/0xbruh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://dev.to/itzfork"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="I'm Not A Bot #Left_TG's DEV Community Profile"></a>
+
+| Follow Meh          |
+|---------------------|
+| <a href="https://github.com/Itz-fork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <a href="https://gitlab.com/Itz-fork"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
+| <a href="https://twitter.com/0xbruh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
+| <a href="https://dev.to/itzfork"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="I'm Not A Bot #Left_TG's DEV Community Profile"></a> |
 
 
 # Contact Me
