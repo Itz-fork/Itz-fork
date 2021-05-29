@@ -6,15 +6,17 @@
 !includeurl ICONURL/font-awesome-5/think_peaks.puml
 !includeurl ICONURL/font-awesome-5/facebook.puml
 !includeurl ICONURL/font-awesome-5/instagram.puml
+!includeurl ICONURL/font-awesome-5/skype.puml
 
 skinparam defaultTextAlignment center
 
 
-FA5_THINK_PEAKS(think,My Opinion,node) #White{
+FA5_THINK_PEAKS(think,What I Think,node) #White{
 FA5_TELEGRAM(telegram,Telegram,node) #White
 FA5_WHATSAPP(whatsapp,Whatsapp,node) #White
 FA5_FACEBOOK(facebook,Facebook,node) #White
 FA5_INSTAGRAM(instagram,Instagram,node) #White
+FA5_SKYPE(skype,Skype,node) #White
 
 }
 
@@ -22,4 +24,5 @@ FA5_INSTAGRAM(instagram,Instagram,node) #White
 telegram ..> whatsapp
 whatsapp ..> facebook
 facebook ..> instagram
+instagram ..> skype
 @enduml
