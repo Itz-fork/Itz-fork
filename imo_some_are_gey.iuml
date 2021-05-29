@@ -16,7 +16,7 @@ FA5_TELEGRAM(telegram,Telegram,node) #White
 FA5_WHATSAPP(whatsapp,Whatsapp,node) #White
 FA5_FACEBOOK(facebook,Facebook,node) #White
 FA5_INSTAGRAM(instagram,Instagram,node) #White
-FA5_SKYPE(skype,Skype,node) #White
+FA5_SKYPE(tfskype,Skype,node) #White
 
 }
 
@@ -24,5 +24,5 @@ FA5_SKYPE(skype,Skype,node) #White
 telegram ..> whatsapp
 whatsapp ..> facebook
 facebook ..> instagram
-instagram ..> skype
+instagram ..> tfskype
 @enduml
