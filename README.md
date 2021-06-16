@@ -33,8 +33,6 @@
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <details>
-  <summary><b>Click Here to See IMO</b></summary>
-  <p><img src="http://www.plantuml.com/plantuml/proxy?cache=no&amp;src=https://raw.githubusercontent.com/Itz-fork/Itz-fork/master/imo_some_are_gey.iuml" alt="in-my-opinion"></p>
-  
-  <b><i>Note ⚠️: All Services Except Telegram Are a Shit That I Never Use / Used . So Don't Ask Me About Them 😄</b></i>
+  <summary><b>Don't Click Here</b></summary>
+  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   </details>
