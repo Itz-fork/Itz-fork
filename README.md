@@ -2,9 +2,13 @@
 
 <p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-    </p>
+  </br><code>🎵 I can be critical, never typical
+Intricate with every syllable, I'm a criminal
+Intimate, but never political, pretty visual
+Even if you hate it, I'll make it feel like you're in it, though 🎵</code></p>
 
 
+# About
 - 🔭 I’m currently working on **Telegram Bots and School Works!**
 - 🌱 I’m currently learning  **Everything I want! 😅**
 - 👯 I’m looking to collaborate on  **A Big Project 😒😑**
@@ -34,5 +38,5 @@
 
 <details>
   <summary><b>Don't Click Here</b></summary>
-  <p><a href="https://youtu.be/dQw4w9WgXcQ">Please Don't Click Here</a>
+  <p><a href="https://youtu.be/dQw4w9WgXcQ" title="How to become a pro">Please Don't Click Here</a>
   </details>
