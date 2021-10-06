@@ -70,6 +70,6 @@ Heya, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋, Just another ra
 <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <details>
-  <summary><b>Don't Click Here</b></summary>
-  <p><a href="https://youtu.be/dQw4w9WgXcQ" title="How to become a pro">Please Don't Click Here</a>
-  </details>
+  <summary><b>More about me!</b></summary>
+  <p><a href="https://youtu.be/dQw4w9WgXcQ" title="About Itz-fork">Watch this 3 min video to know about me 😄</a>
+</details>
