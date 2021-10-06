@@ -46,9 +46,30 @@ Heya, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋, Just another ra
 </a>
 
 
+
+# Some Repos
+
+<a href="https://github.com/Itz-fork/Unzipper-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/Itz-fork/Mega.nz-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Mega.nz-Bot&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/Itz-fork/Callsmusic-Plus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Callsmusic-Plus&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/Itz-fork/py-trans">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=py-trans&cache_seconds=86400&theme=gotham">
+</a>
+
+**Check All Repos 👉 - [here](https://github.com/Itz-fork?tab=repositories&q=&type=public&language=&sort=stargazers)**
+
 # Profile Stats,
 
-![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
+![Itz-fork's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
 
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
