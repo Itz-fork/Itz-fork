@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Itz-Fork</h1>
+<h1 align="center">Heya! 👋 I'm Itz-Fork</h1>
 
 <p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
@@ -8,7 +8,13 @@
 
 # About Me
 
-Heya, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋, Just another random human developer from Earth 🌎! I'm currently working on **Telegram Bots** as well as **School Works 😸!**. I'm currently learning **Everything I want! 😅**. I’m looking to collaborate on  **A Big Project 😒😑**. Wanna contact me? **[See Here](https://github.com/Itz-fork#contact-me)**. Here is a Fun fact **I'm a small kid** ⚡
+Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves to play with codes while having fun 😉.
+
+- ❤️ I mostly like bash scripting and python programming!
+- 👷 I'm currently working on [Telegram Bots](#some-projects) and yeah, School things!
+- 🍀 I'm currently learning `python`, `bash`, `javascript`, `dart` and Everything I want 😎
+
+👉 Wanna contact me? See  [here](#contact-me)
 
 
 
@@ -44,7 +50,7 @@ Heya, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋, Just another ra
 
 
 
-# Some Repos
+# Some Projects
 
 <a href="https://github.com/Itz-fork/Unzipper-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
