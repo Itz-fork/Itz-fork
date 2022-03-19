@@ -74,8 +74,9 @@ Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo ki
 
 ![Itz-fork's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
 
-<h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
-
+<h4 align="left">
+  <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14">
+</h4>
 
 
 # Me On Social
