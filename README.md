@@ -2,19 +2,20 @@
 
 <p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-  </br><code>🎶 I can't help myself Think I'm going to hell I'll probably never leave 🎶</code></p>
+  </br><code>🎶 I can't help myself Think I'm going to hell I'll probably never leave 🎶</code>
+</p>
 
 
 
 # About Me
 
-Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves to play with codes while having fun 😉.
+I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves to play with codes 😉.
 
-- ❤️ I mostly like bash scripting and python programming!
+- ❤️ My favorite programming languages are python and bash!
 - 👷 I'm currently working on [Telegram Bots](#some-projects) and yeah, School things!
-- 🍀 I'm currently learning `python`, `bash`, `javascript`, `dart` and Everything I want 😎
+- 🍀 I'm currently learning `python`, `bash`, `javascript`, `dart` and everything I want 😎
 
-👉 Wanna contact me? See  [here](#contact-me)
+👉 Wanna contact me? See [here](#contact-me)
 
 
 
@@ -34,6 +35,12 @@ Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo ki
 <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
+</a>
+<a href="https://dart.dev/">
+  <img src="https://img.shields.io/badge/Dart-152030?style=for-the-badge&logo=dart&logoColor=32A4C6">
+</a>
 <a href="https://en.wikipedia.org/wiki/Markdown">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </a>
@@ -44,8 +51,8 @@ Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo ki
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
 </a>
-<a href="https://github.com/features/codespaces">
-  <img src="https://img.shields.io/badge/Codespaces-030202?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.vim.org/">
+  <img src="https://img.shields.io/badge/Vim-2E3440?style=for-the-badge&logo=vim&logoColor=A3BE8C">
 </a>
 
 
@@ -60,12 +67,12 @@ Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo ki
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Mega.nz-Bot&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/Itz-fork/Callsmusic-Plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Callsmusic-Plus&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/Itz-fork/Nexa-APIs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Nexa-APIs&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/Itz-fork/py-trans">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=py-trans&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/Itz-fork/Gofile2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Gofile2&cache_seconds=86400&theme=gotham">
 </a>
 
 **Check All Repos 👉 - [here](https://github.com/Itz-fork?tab=repositories&q=&type=public&language=&sort=stargazers)**
@@ -77,6 +84,7 @@ Yo wassup, I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo ki
 <h4 align="left">
   <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14">
 </h4>
+
 
 
 # Me On Social
