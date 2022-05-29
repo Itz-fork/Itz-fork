@@ -18,4 +18,4 @@ jobs:
           base: ""
           plugin_activity_visibility: public
           plugin_activity_skipped: Itz-fork
-          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: push, issue, pr, release, comment

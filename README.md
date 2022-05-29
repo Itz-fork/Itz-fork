@@ -111,4 +111,6 @@ I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves
 
 # Recent activity ⚡
 
-<!--START_SECTION:activity-->
+<p align="center">
+  <img src="itz-fork.activity.svg">
+</p>
