@@ -1,4 +1,4 @@
-name: Add recent activity
+name: Add metrics (activity)
 
 on:
   schedule:
@@ -6,15 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  activity-metrics:
     runs-on: ubuntu-latest
-    name: Update README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          COMMIT_MSG: 'Added recent activity 💪'
-          MAX_LINES: 5
+          filename: itz-fork.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          plugin_activity: yes
+          base: ""
+          plugin_activity_visibility: public
+          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create
