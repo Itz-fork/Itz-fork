@@ -1,4 +1,4 @@
-<h1 align="center">Heya! 👋 I'm Itz-Fork</h1>
+<h1 align="center">Heya, I'm Itz-Fork 👋</h1>
 
 <p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
@@ -7,7 +7,7 @@
 
 
 
-# About Me
+# About Me 🤔
 
 I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves to play with codes 😉.
 
@@ -56,15 +56,26 @@ I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves
 </a>
 
 
+# Profile Stats 📊
 
-# Some Projects
+<h4 align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14">
+</h4>
 
-<a href="https://github.com/Itz-fork/Unzipper-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight" alt="Itz-fork's github stats"></img>
+</p>
+
+
+# Projects 💻
+
 
 <a href="https://github.com/Itz-fork/Mega.nz-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Mega.nz-Bot&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/Itz-fork/Unzipper-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/Itz-fork/Nexa-APIs">
@@ -77,17 +88,8 @@ I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves
 
 **Check All Repos 👉 - [here](https://github.com/Itz-fork?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
-# Profile Stats,
 
-![Itz-fork's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
-
-<h4 align="left">
-  <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14">
-</h4>
-
-
-
-# Me On Social
+# Social 🌍
 
 | **Platform** |    Take a look       |
 |------------|---------------------|
@@ -97,12 +99,16 @@ I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves
 |   Dev.to   | <a href="https://dev.to/itzfork"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="I'm Not A Bot #Left_TG's DEV Community Profile"></a> |
 
 
+# Contact Me 💬
 
-# Contact Me
+<p align="center">
+  <!-- Telegram -->
+  <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <!-- Gmail -->
+  <a href="ask.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<details>
-  <summary><b>More about me!</b></summary>
-  <p><a href="https://youtu.be/dQw4w9WgXcQ" title="About Itz-fork">Watch this 3 min video to know about me 😄</a>
-</details>
+# Recent activity ⚡
+
+<!--START_SECTION:activity-->
