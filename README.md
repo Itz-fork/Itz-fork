@@ -105,7 +105,7 @@ I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves
   <!-- Telegram -->
   <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <!-- Gmail -->
-  <a href="ask.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ask.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
