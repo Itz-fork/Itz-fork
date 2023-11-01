@@ -1,116 +1,103 @@
-<h1 align="center">Heya, I'm Itz-Fork 👋</h1>
-
+<!-- Main image -->
 <p align="center">
-  <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-  </br><code>🎶 I can't help myself Think I'm going to hell I'll probably never leave 🎶</code>
+    <img src="data/hirusha.gif" alt="Hirusha">
 </p>
 
 
-
-# About Me 🤔
-
-I'm [Itz-Fork](https://github.com/Itz-fork/Itz-fork) 👋! A 15 yo kid who loves to play with codes 😉.
-
-- ❤️ My favorite programming languages are python and bash!
-- 👷 I'm currently working on [Telegram Bots](#some-projects) and yeah, School things!
-- 🍀 I'm currently learning `python`, `bash`, `javascript`, `dart` and everything I want 😎
-
-👉 Wanna contact me? See [here](#contact-me)
+<!-- Header & Description -->
+<h2 align="center"><b>Hey, I'm Hirusha 👋</b></h2>
+<p align="center">A random teenager from the Teardrop of India 🏝️</p>
 
 
-
-# Things I ❤️
-
-**Languages,**
-
-<a href="https://python.org/">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white">
-</a>
-<a href="https://html5.org/">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
-</a>
-<a href="https://dart.dev/">
-  <img src="https://img.shields.io/badge/Dart-152030?style=for-the-badge&logo=dart&logoColor=32A4C6">
-</a>
-<a href="https://en.wikipedia.org/wiki/Markdown">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</a>
+<!-- Nav buttons -->
+<p align="center">
+    <kbd> <br> <a href="#about">About</a> <br> </kbd>
+    <kbd> <br> <a href="#projects">Projects</a> <br> </kbd>
+    <kbd> <br> <a href="#contact">Contact</a> <br> </kbd>
+</p>
 
 
-**Code Editors,**
+<!-- About section -->
+## About
 
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
-</a>
-<a href="https://www.vim.org/">
-  <img src="https://img.shields.io/badge/Vim-2E3440?style=for-the-badge&logo=vim&logoColor=A3BE8C">
-</a>
+```js
+{
+    "name": "Hirusha",
+    "age": "17"
+    "occupation": "Student"
+    "hobbies": "Doing what I love ;)"
+}
+```
+
+<h3 align="center">Languages I ❤️‍🔥</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
+    <img src="https://img.shields.io/badge/Dart-152030?style=for-the-badge&logo=dart&logoColor=32A4C6" />
+    <img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3 align="center">OS I ❤️‍🔥</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<h3 align="center">Frameworks and tools 👨‍🔬</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Svelte-F66B0E?style=for-the-badge&logo=svelte&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nuxt-001E26?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 
-# Profile Stats 📊
+<!-- Stats section -->
+## Stats
 
 <h4 align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14">
+  <img src="https://komarev.com/ghpvc/?username=Itz-fork&style=for-the-badge&color=E384FF">
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight" alt="Itz-fork's github stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight" alt="Github stats"></img>
 </p>
 
 
-# Projects 💻
-
-
-<a href="https://github.com/Itz-fork/Mega.nz-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Mega.nz-Bot&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/Itz-fork/Unzipper-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/Itz-fork/Nexa-APIs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Nexa-APIs&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/Itz-fork/Gofile2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Gofile2&cache_seconds=86400&theme=gotham">
-</a>
-
-**Check All Repos 👉 - [here](https://github.com/Itz-fork?tab=repositories&q=&type=public&language=&sort=stargazers)**
-
-
-# Social 🌍
-
-| **Platform** |    Take a look       |
-|------------|---------------------|
-|   Github   | <a href="https://github.com/Itz-fork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-|   Gitlab   | <a href="https://gitlab.com/Itz-fork"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
-|   Twitter  | <a href="https://twitter.com/0xbruh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
-|   Dev.to   | <a href="https://dev.to/itzfork"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="I'm Not A Bot #Left_TG's DEV Community Profile"></a> |
-
-
-# Contact Me 💬
+<!-- Projects section -->
+## Projects
 
 <p align="center">
-  <!-- Telegram -->
+    <a href="https://github.com/Itz-fork/py-trans">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=py-trans&cache_seconds=86400&theme=tokyonight">
+    </a>
+    <a href="https://github.com/Itz-fork/Chrofil">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Chrofil&cache_seconds=86400&theme=tokyonight">
+    </a>
+    <a href="https://github.com/Itz-fork/Fake-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Fake-agent&cache_seconds=86400&theme=tokyonight">
+    </a>
+    <a href="https://github.com/Itz-fork/Gofile2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Gofile2&cache_seconds=86400&theme=tokyonight">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Itz-fork?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img src="data/see-more.png" width="75" height="auto">
+    </a>
+</p>
+
+
+<!-- Contact section -->
+## Contact
+
+<p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <!-- Gmail -->
-  <a href="mailto:ask.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-
-# Recent activity ⚡
-
-<p align="center">
-  <img src="itz-fork.activity.svg">
+  <a href="mailto:git.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
