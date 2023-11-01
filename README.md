@@ -5,19 +5,23 @@
 
 
 <!-- Header & Description -->
-<h2 align="center"><b>Hey, I'm Hirusha 👋</b></h2>
+<h1 align="center">
+    Hey, I'm Hirusha 👋
+</h1>
 <p align="center">A random teenager from the Teardrop of India 🏝️</p>
 
 
 <!-- Nav buttons -->
 <p align="center">
-    <kbd> <br> <a href="#about">About</a> <br> </kbd>
-    <kbd> <br> <a href="#projects">Projects</a> <br> </kbd>
-    <kbd> <br> <a href="#contact">Contact</a> <br> </kbd>
+    <kbd> <br> <a href="#about">About</a> <br> </kbd>
+    <kbd> <br> <a href="#stats">Stats</a> <br> </kbd>
+    <kbd> <br> <a href="#projects">Projects</a> <br> </kbd>
+    <kbd> <br> <a href="#contact">Contact</a> <br> </kbd>
 </p>
 
 
 <!-- About section -->
+
 ## About
 
 ```js
