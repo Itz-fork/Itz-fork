@@ -75,21 +75,11 @@
 
 <!-- Projects section -->
 ## Projects
+Here are some of the projects that I actively maintain,
 
-<p align="center">
-    <a href="https://github.com/Itz-fork/py-trans">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=py-trans&cache_seconds=86400&theme=tokyonight">
-    </a>
-    <a href="https://github.com/Itz-fork/Chrofil">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Chrofil&cache_seconds=86400&theme=tokyonight">
-    </a>
-    <a href="https://github.com/Itz-fork/Fake-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Fake-agent&cache_seconds=86400&theme=tokyonight">
-    </a>
-    <a href="https://github.com/Itz-fork/Gofile2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Gofile2&cache_seconds=86400&theme=tokyonight">
-    </a>
-</p>
+- [**Zephyr**](https://github.com/Itz-fork/Zephyr) - Minimal class-less css stylesheet
+- [**Kivi.py**](https://github.com/Itz-fork/Kivi.py) - A simple key-value database made with python
+- [**py-trans**](https://github.com/Itz-fork/py-trans) - Python library to translate text into different languages
 
 <p align="center">
     <a href="https://github.com/Itz-fork?tab=repositories&q=&type=&language=&sort=stargazers">
