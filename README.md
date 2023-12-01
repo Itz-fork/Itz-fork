@@ -27,8 +27,8 @@
 ```js
 {
     "name": "Hirusha",
-    "age": "17"
-    "occupation": "Student"
+    "age": 17,
+    "occupation": "Student",
     "hobbies": "Doing what I love ;)"
 }
 ```
@@ -78,8 +78,8 @@
 Here are some of the projects that I actively maintain,
 
 - [**Zephyr**](https://github.com/Itz-fork/Zephyr) - Minimal class-less css stylesheet
-- [**Kivi.py**](https://github.com/Itz-fork/Kivi.py) - A simple key-value database made with python
-- [**py-trans**](https://github.com/Itz-fork/py-trans) - Python library to translate text into different languages
+- [**Kivi.py**](https://github.com/Itz-fork/Kivi.py) - JSON based python key-value database for rapid prototyping
+- [**py-trans**](https://github.com/Itz-fork/py-trans) - Text translation library with wrappers for Google Translate, My memory and more...
 
 <p align="center">
     <a href="https://github.com/Itz-fork?tab=repositories&q=&type=&language=&sort=stargazers">
