@@ -1,9 +1,3 @@
-<!-- Main image -->
-<p align="center">
-    <img src="data/hirusha.gif" alt="Hirusha">
-</p>
-
-
 <!-- Header & Description -->
 <h1 align="center">
     Hey, I'm Hirusha 👋
