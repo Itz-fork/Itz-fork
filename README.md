@@ -1,7 +1,9 @@
 <!-- Header & Description -->
-<h1 align="center">
-    Hey, I'm Hirusha 👋
-</h1>
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/77770753" width=312 height=312/>
+    <br>
+    <h1 align="center">Hey, I'm Hirusha 👋</h1>
+</p>
 <p align="center">A random teenager from the Teardrop of India 🏝️</p>
 
 
@@ -21,14 +23,16 @@
 ```js
 {
     "name": "Hirusha",
-    "age": 17,
+    "age": undefined,
     "occupation": "Student",
     "hobbies": "Doing what I love ;)"
 }
 ```
 
-<h3 align="center">Languages I ❤️‍🔥</h3>
-<p align="center">
+## Things I love ❤️‍🔥
+
+<h3>Languages</h3>
+<p>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
     <img src="https://img.shields.io/badge/Dart-152030?style=for-the-badge&logo=dart&logoColor=32A4C6" />
@@ -37,21 +41,21 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">OS I ❤️‍🔥</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-<h3 align="center">Frameworks and tools 👨‍🔬</h3>
-<p align="center">
+<h3>Frameworks and tools</h3>
+<p>
     <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Svelte-F66B0E?style=for-the-badge&logo=svelte&logoColor=white" />
     <img src="https://img.shields.io/badge/Nuxt-001E26?style=for-the-badge&logo=nuxt.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<h3>OS</h3>
+<p>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 
@@ -69,11 +73,21 @@
 
 <!-- Projects section -->
 ## Projects
-Here are some of the projects that I actively maintain,
 
-- [**Zephyr**](https://github.com/Itz-fork/Zephyr) - Minimal class-less css stylesheet
-- [**Kivi.py**](https://github.com/Itz-fork/Kivi.py) - JSON based python key-value database for rapid prototyping
-- [**py-trans**](https://github.com/Itz-fork/py-trans) - Text translation library with wrappers for Google Translate, My memory and more...
+<p align="center">
+    <a href="https://github.com/Itz-fork/Mega.nz-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Mega.nz-Bot&cache_seconds=86400&theme=gotham">
+    </a>
+    <a href="https://github.com/Itz-fork/Unzipper-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Unzipper-Bot&cache_seconds=86400&theme=gotham">
+    </a>
+    <a href="https://github.com/Itz-fork/py-trans">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=py-trans&cache_seconds=86400&theme=gotham">
+    </a>
+    <a href="https://github.com/Itz-fork/Fake-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-fork&repo=Fake-agent&cache_seconds=86400&theme=gotham">
+    </a>
+</p>
 
 <p align="center">
     <a href="https://github.com/Itz-fork?tab=repositories&q=&type=&language=&sort=stargazers">
