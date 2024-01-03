@@ -22,7 +22,7 @@
 
 ```js
 {
-    "name": "Hirusha",
+    "name": "Hirusha Himath",
     "age": undefined,
     "occupation": "Student",
     "hobbies": "Doing what I love ;)"
@@ -102,4 +102,5 @@
 <p align="center">
   <a href="https://t.me/Bruh_0x"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:git.itzfork@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hirushah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
